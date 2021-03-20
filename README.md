@@ -9,12 +9,10 @@ In such situations, you need to be careful because the details that you might sh
  
 In this module, you will understand frauds from a bank’s perspective and learn to what extent these frauds affect their business. Banks need to be cautious about their customers’ transactions, as they cannot afford to lose their customers’ money to fraudsters. Every fraud is a loss to the bank as the bank is responsible for the fraud transactions if it is reported within a certain time frame by the customer.
 
- 
 
-Now let us understand the importance of this project and develop the business understanding in the video given below.
 
 
 The aim of this project is to predict fraudulent credit card transactions using machine learning models. 
 
 
-The data set that you will be working on during this project was obtained from Kaggle. It contains thousands of individual transactions that took place over a course of two days and their respective labels.
+The data set used during this project was obtained from an Enterprise Data Warehouse. It contains encoded individual transactions that took place over a course of two days and their respective labels.
